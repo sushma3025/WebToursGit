@@ -7,7 +7,7 @@
   <test name="Test">
     <classes>
      
-      <class name="base.BaseTest"></class>
+      <class name="rough.signup"></class>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
